@@ -254,3 +254,6 @@ Na aba **Aparência**, pode configurar desde as cores do painel, vocalização d
 
 .. important::
     Para ocultar o painel (exibição de senhas), basta clicar com o botão do meio do mouse (roda/scroll).
+
+
+.. sectionauthor:: Clécio Anderson <clecioanderson@gmail.com>

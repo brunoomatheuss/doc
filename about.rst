@@ -3,7 +3,7 @@
 Sobre
 =====
 
-SGA é o acrônimo de Sistema de Gerenciamento de Atendimento, sistema desenvolvido pela Dataprev e liberado como código aberto através da versão SGA Livre.
+SGA é o acrônimo de Sistema de Gerenciamento de Atendimento, um sistema adaptável para grandes e pequenas organizações.
 
 Através do SGA é possível gerenciar filas e fluxo de  atendimento em quaisquer tipos de empresas ou organizações que prestam serviço de atendimento presencial à pessoas.
 
@@ -23,17 +23,15 @@ Na versão Novo SGA, a parte web foi totalmente reformulada, deixando mais leve 
 Tecnologia
 ==========
 
-A aplicação web continua escrita em PHP, porém compatível com as versões mais novas, desfrutando de melhorias e evolução da linguagem.
+A aplicação web escrita em PHP utilizando as melhores práticas de desenvolvimento.
 
 * PHP 5.3+
 * HTML5
 * CSS3
-* Java (painel)
-* `Doctrine PHP 2.3 <http://www.doctrine-project.org/projects/orm.html>`_
-* `jQuery 1.8+ <http://jquery.com/>`_
-* `jQuery UI 1.9+ <http://jqueryui.com/>`_
-* `Twitter Bootstrap for jQuery UI <http://addyosmani.github.com/jquery-ui-bootstrap/>`_
-* `Highcharts <http://www.highcharts.com/>`_
+* `Doctrine PHP 2.4 <http://www.doctrine-project.org/projects/orm.html>`_
+* `jQuery 1.9+ <http://jquery.com>`_
+* `Twitter Bootstrap 3 <http://getbootstrap.com>`_
+* `Highcharts <http://www.highcharts.com>`_
 
 Testado no seguintes bancos:
 
@@ -49,3 +47,14 @@ Versão de desenvolvimento disponível online através do link: http://novosga.o
 
 * **Usuário**: admin
 * **Senha**: 123456
+
+
+Desenvolvimento
+===============
+
+O Novo SGA foi idealizado e é mantido por `Rogério Alencar Lino Filho <http://rogeriolino.com>`_ junto a `outros programadores e usuários <https://github.com/novosga/novosga/contributors>`_. Todo o código do sistema está disponibilizado no `repositório do projeto <https://github.com/novosga/novosga>`_.
+
+Para maiores informações visite o site do projeto em http://novosga.org e dúvidas ou sugestões visite o fórum em http://forum.novosga.org.
+
+
+.. sectionauthor:: Rogério Lino <rogeriolino@gmail.com>
